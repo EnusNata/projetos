@@ -50,5 +50,6 @@ while True:
             expression = fa.formatar_saida_resultado(expression,result_final)
             fa.atualizar_exibicao(expression,window)
         else:
-            expression = fa.montar_mensagem_de_erro()
-            fa.atualizar_exibicao(expression,window)
+            error_mensage = str()
+            error_mensage = fa.montar_mensagem_de_erro()
+            fa.atualizar_exibicao(error_mensage,window)
