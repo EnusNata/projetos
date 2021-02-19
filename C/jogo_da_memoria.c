@@ -543,8 +543,7 @@ int is_carta_na_posicao_oculta(PosicaoSelecionada posicao_selecionada)
 
 int is_carta_invalida(PosicaoSelecionada posicao_selecionada)
 {
-    if( is_posicao_existente(posicao_selecionada) && is_carta_na_posicao_oculta(posicao_selecionada)
-    )
+    if( is_posicao_existente(posicao_selecionada) && is_carta_na_posicao_oculta(posicao_selecionada))
     {
         return 0;
     }
