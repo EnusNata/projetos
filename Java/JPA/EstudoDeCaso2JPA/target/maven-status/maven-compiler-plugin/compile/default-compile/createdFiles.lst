@@ -1,0 +1,8 @@
+javabeans\Consulta_.class
+dao\DataAccessObject.class
+javabeans\Medico_.class
+estudodecaso2jpa\EstudoDeCaso2JPA.class
+javabeans\Consulta.class
+javabeans\Medico.class
+dao\ConsultaDAO.class
+dao\MedicoDAO.class
