@@ -1,0 +1,14 @@
+javabeans\Pedido.class
+javabeans\Produto_.class
+javabeans\Cliente.class
+DAO\ProdutoDAO.class
+javabeans\Pedido_.class
+javabeans\Produto.class
+javabeans\PedidoProduto.class
+javabeans\Cliente_.class
+DAO\DataAccessObject.class
+DAO\PedidoDAO.class
+DAO\PedidoProdutoDAO.class
+javabeans\PedidoProduto_.class
+com\mycompany\estudodecaso5jpa\EstudoDeCaso5JPA.class
+DAO\ClienteDAO.class
